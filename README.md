@@ -29,7 +29,6 @@ python run.py
 Then, open your browser and access the app at:
 
 - https://lawknodlo5.prod.udacity-student-workspaces.com/
-
 # Project Structure
 
 project-root/
